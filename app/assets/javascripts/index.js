@@ -8,6 +8,8 @@ import redditLogo from '../img/reddit-mark-64px.png'
 import englishLogo from '../img/english.png'
 import russianLogo from '../img/russian.png'
 import chineseLogo from '../img/chinese.png'
+import spanishLogo from '../img/spanish.png'
+import italianLogo from '../img/italian.png'
 import contractQR from '../img/0xbitcoinContractQR.png'
 
 import whiteLogo from '../img/logo.png'
@@ -49,6 +51,8 @@ var navbar = new Vue({
     englishLogo: englishLogo,
     russianLogo: russianLogo,
     chineseLogo: chineseLogo,
+    spanishLogo: spanishLogo,
+    italianLogo: italianLogo,
     contractQR: contractQR
   }
 })
